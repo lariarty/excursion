@@ -11,6 +11,9 @@ header h1 {
 a {
   color: aquamarine;
 }
+main img {
+  margin-top: 50px;
+}
 main h2 {
   font-size: 42px;
   font-weight: 300;
@@ -18,4 +21,10 @@ main h2 {
 main p {
   font-size: 21px;
   color: gray;
+}
+footer p {
+  text-align: right;
+  color: gray;
+  font-size: 20px;
+  padding-right: 10px;
 }
